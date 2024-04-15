@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Java Lambda.iml" filepath="$PROJECT_DIR$/.idea/Java Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Lambda.iml" filepath="$PROJECT_DIR$/Java Lambda.iml" />
     </modules>
   </component>
 </project>
