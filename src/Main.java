@@ -6,5 +6,7 @@ public class Main {
         Addable add = (x, y) -> x + y;
 
         System.out.println(add.add(a, b));
+
+        Multiplyable multiply = (x, y) -> x * y;
     }
 }
